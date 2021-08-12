@@ -17,14 +17,14 @@ const Projects = () => {
                     <h1>My Mess</h1>
                     <p>HTML, CSS, JavaScript, PHP, MySQL</p>
 
-                    <button><a href="https://github.com/MdZakirHossainBhuiyan/my-mess" target="_blank">Github Code</a></button>
+                    <button><a href="https://github.com/MdZakirHossainBhuiyan/my-mess">Github Code</a></button>
                 </div>
                 <div className="projects-card">
                 <img src={project1} alt="" />
                     <h1>Bangladesh Tour and Travel Community</h1>
                     <p>HTML, CSS, JavaScript, PHP, MySQL</p>
 
-                    <button><a href="https://github.com/MdZakirHossainBhuiyan/Bangladesh-Tour-and-travel-community" target="_blank">Github Code</a></button>
+                    <button><a href="https://github.com/MdZakirHossainBhuiyan/Bangladesh-Tour-and-travel-community">Github Code</a></button>
 
                 </div>
                 <div className="projects-card">
@@ -33,8 +33,8 @@ const Projects = () => {
                     <p>React, React-Bootstrap, Rest API</p>
 
                     <div className="card-btn">
-                        <button><a href="https://github.com/MdZakirHossainBhuiyan/epl-team-maker" target="_blank">Github Code</a></button>
-                        <button><a href="https://naughty-poitras-099c8a.netlify.app/" target="_blank">Live Preview</a></button>
+                        <button><a href="https://github.com/MdZakirHossainBhuiyan/epl-team-maker" >Github Code</a></button>
+                        <button><a href="https://naughty-poitras-099c8a.netlify.app/">Live Preview</a></button>
                     </div>
                 </div>
             </div>

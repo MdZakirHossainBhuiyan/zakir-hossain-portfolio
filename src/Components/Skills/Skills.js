@@ -13,7 +13,7 @@ const Skills = () => {
                     <h3>My creative skills & experiences.</h3>
                     <p>I'm about to graduate in computer science and Engineering, and with this, I have completed a six-month course on web development. <br /><br /> I have no industrial experience yet. But I always wanted to work for an IT firm, and want to improve my skills.</p>
 
-                    <button><a href="https://github.com/MdZakirHossainBhuiyan" target="_blank">Explore Me</a></button>
+                    <button><a href="https://github.com/MdZakirHossainBhuiyan">Explore Me</a></button>
                 </div>
                 <div className="skill-info">
                     <h1>Skills bar</h1>

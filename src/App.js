@@ -1,6 +1,5 @@
 import About from './Components/About/About';
 import Header from './Components/Header/Header';
-import logo from './logo.svg';
 import Home from './Components/Home/Home';
 import Services from './Components/Services/Services';
 import Skills from './Components/Skills/Skills';
